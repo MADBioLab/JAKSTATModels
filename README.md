@@ -5,7 +5,9 @@
 This repository contains code and data files used in the preparation of the manuscript "Capturing the dynamics of STAT6 macrophage polarization using bioluminescence temporal spectrometry" by Zheng et al.
 
 The following authors contributed to this repository:
+
 Belinda S Akpa
+
 Zachary Fox
 
 ### Code contents
