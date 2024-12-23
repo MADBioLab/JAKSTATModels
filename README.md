@@ -15,12 +15,12 @@ JAKSTATModel_InferredFromBTSWayne.m
 
 ### Data file contents
 data_CtrlAndIL4Replicates.csv
-best4Pub.mat
+Figure7BParameterValues.mat
 
 ## Usage
 The code file, JAKSTATModel_InferredFromBTSWayne.m, produces the plot shown in Figure 7B of the relevant manuscript. The code uses the best parameter set identified in the ABC-SMC search to generate response curves for IL4 stimulation.  These curves are then plotted against the experimental data.  
 
 ### JAKSTATModel_InferredFromBTSWayne.m
 Contains a function JAKSTATModel_InferredFromBTSWayne(parameterValues,plotFlag) with the following arguments:
-- parameterValues - 1x26 array containing the estimated parameter values for the model, expressed as log10(theta).
+- parameterValues - 1x26 array containing the estimated parameter values for the model, expressed as log10(theta). For Figure 7B, the corresponding parameter values are found in the file Figure7BParameterValues.mat.
 - plotFlag - string, either 'y' or 'n', indicating whether plots should be generated during computation
