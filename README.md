@@ -22,5 +22,5 @@ The code file, JAKSTATModel_InferredFromBTSWayne.m, produces the plot shown in F
 
 ### JAKSTATModel_InferredFromBTSWayne.m
 Contains a function JAKSTATModel_InferredFromBTSWayne(parameterValues,plotFlag) with the following arguments:
-- parameterValues - 1x28 array containing the estimated parameter values for the model, expressed as log10(theta).
+- parameterValues - 1x26 array containing the estimated parameter values for the model, expressed as log10(theta).
 - plotFlag - string, either 'y' or 'n', indicating whether plots should be generated during computation
