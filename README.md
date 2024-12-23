@@ -1,4 +1,6 @@
 # JAKSTATModels
+https://doi.org/10.5281/zenodo.14545524
+
 # Modeling of JAK/STAT signaling activity in response to IL4 stimulation
 
 ## Introduction
