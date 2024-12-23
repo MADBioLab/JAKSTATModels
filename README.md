@@ -14,7 +14,9 @@ Zachary Fox
 JAKSTATModel_InferredFromBTSWayne.m
 
 ### Data file contents
+
 data_CtrlAndIL4Replicates.csv
+
 Figure7BParameterValues.mat
 
 ## Usage
@@ -23,4 +25,4 @@ The code file, JAKSTATModel_InferredFromBTSWayne.m, produces the plot shown in F
 ### JAKSTATModel_InferredFromBTSWayne.m
 Contains a function JAKSTATModel_InferredFromBTSWayne(parameterValues,plotFlag) with the following arguments:
 - parameterValues - 1x26 array containing the estimated parameter values for the model, expressed as log10(theta). For Figure 7B, the corresponding parameter values are found in the file Figure7BParameterValues.mat.
-- plotFlag - string, either 'y' or 'n', indicating whether plots should be generated during computation
+
